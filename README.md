@@ -9,8 +9,8 @@ Just clone the repository or download main.py and run the file from terminal.
 
 ## Usage
 
-Should work great with plain text-files, such as these: https://www.gutenberg.org/
-There are a couple of example files inside test-folder.
+Should work great with plain text-files, such as these: https://www.gutenberg.org/ \
+There are a couple of example files inside test-folder. \
 Just run the program and input the **relative** file path to the file you want to be analyzed.
 
 ## Example report
